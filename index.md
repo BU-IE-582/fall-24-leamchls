@@ -1,8 +1,5 @@
-theme: jekyll-theme-merlot
-title: Lea Michels's Progress Journal
-description: This journal is created for IE 582 Fall24.
-
-## Welcome to Leas Repository
+### Lea Michels's Progress Journal
+##This journal is created for IE 582 Fall24.
 
 This is the file to my code: https://bu-ie-582.github.io/fall-24-leamchls/Homework_Final_Version.html
 
